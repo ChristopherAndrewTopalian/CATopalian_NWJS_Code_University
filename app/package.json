@@ -1,0 +1,17 @@
+{
+    "name": "catopalian-nwjs-code-university",
+    "version": "1.0.0",
+    "description": "Code Viewer and Editor",
+    "main": "index.html",
+    "window":
+    {
+        "title": "CATopalian NWJS Code University",
+        "icon": "src/media/textures/icons/catopalian_true_ai.png",
+        "width": 1280,
+        "height": 720,
+        "position": "center",
+        "resizable": true,
+        "frame": true
+    },
+    "nodejs": true
+}
