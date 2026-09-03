@@ -1,5 +1,5 @@
 # CATopalian NWJS Code University
-A JavaScript NW.js Node.js application that allows us to View and Edit all Scripts in our specified folder.
+A JavaScript NW.js Node.js application that allows us to View and Edit all Scripts in our specified folder to make learning scripting very organized.
 
 ---
 
